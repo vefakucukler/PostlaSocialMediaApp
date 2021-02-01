@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1071041936230",
+    "firebase_url": "https://postla.firebaseio.com",
+    "project_id": "postla",
+    "storage_bucket": "postla.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1071041936230:android:e226ee59353a3794",
+        "android_client_info": {
+          "package_name": "com.vkyazilim.postla"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1071041936230-0fvdod5uu4ur2b2b39v0gca2ge5cj1oc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vkyazilim.postla",
+            "certificate_hash": "1ab4523f33ffb3e757212abc8f787430d33a4308"
+          }
+        },
+        {
+          "client_id": "1071041936230-cia6ko7kh2p27oc05d144pmp6u3bruk7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBL1UG1Nu4WuNyX3AMPkpwiuH3ncEy9Zew"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1071041936230-cia6ko7kh2p27oc05d144pmp6u3bruk7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
